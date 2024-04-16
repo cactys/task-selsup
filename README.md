@@ -1,4 +1,4 @@
-**<<<[DEMO](https://cactys.github.io/task-selsup/)>>>**
+**<<<[DEMO](https://task-selsup.vercel.app/)>>>**
 
 ### 🔧 Инструкция:
 
