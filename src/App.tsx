@@ -1,9 +1,9 @@
-import React, { createRef, useState } from 'react';
+import { createRef, useState } from 'react';
 import { Model, Param, ParamEditor } from './ParamEditor';
 import styles from './App.module.css';
 
 const App = () => {
-  const [params, setParams] = useState<Param[]>([
+  const [params] = useState<Param[]>([
     { id: 1, name: 'Назначение', type: 'string' },
     { id: 2, name: 'Длина', type: 'string' },
     { id: 3, name: 'Цвет', type: 'list' },
