@@ -1,4 +1,4 @@
-**<<<[DEMO](http://stellar.khortys.space/)>>>**
+**<<<[DEMO](https://cactys.github.io/task-selsup/)>>>**
 
 ### 🔧 Инструкция:
 
