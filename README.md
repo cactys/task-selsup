@@ -1,4 +1,4 @@
-**<<<[DEMO](http://stellar.khortys.space/)>>>**
+**<<<[DEMO](https://cactys.github.io/task-selsup/)>>>**
 
 ### 🔧 Инструкция:
 
@@ -14,5 +14,5 @@
 ```
 6. Запустить проект:
 ```sh
-    npm run start
+    npm run dev
 ```
