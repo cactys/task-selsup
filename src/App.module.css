@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  position: absolute;
+  top: 10px;
+  right: calc(50% - 50px);
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  margin: 0;
+  text-align: center;
+}
+
+.button {
+  margin: 10px 0 0;
+  max-width: 120px;
+}
